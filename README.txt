@@ -23,6 +23,9 @@ A、通过state参数、client_id、client_secret解决，参考：http://insigh
 Q、token的传递方式
 A、RFC6750，参考：http://www.cnblogs.com/linianhui/p/oauth2-authorization.html#auto_id_19
 
+Q、token的刷新
+A、参考：https://www.cnblogs.com/linianhui/p/oauth2-authorization.html#auto_id_18
+
 Q、token的撤销
 A、RFC7009，参考：https://www.cnblogs.com/linianhui/p/oauth2-extensions-protocol-and-json-web-token.html#auto_id_3
 
